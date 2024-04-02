@@ -1,0 +1,14 @@
+.container {
+  position: absolute;
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid;
+  background-color: aliceblue;
+  -webkit-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.75);
+}
